@@ -1,4 +1,4 @@
-obj-m += helloworld.o
+obj-m += helloworld.o helloworld_with_parameters.o
 
 KERNEL_DIR ?= $(HOME)/linux
 
